@@ -19,7 +19,7 @@ smr2python
 
 [Visita GitHub](https://github.com)
 
-![Un gato hacker](plantilla/assets-img/cute-cat-hacker-operating-laptop-cartoon-vector-icon-illustration-animal-technology-icon-isolated_138676-6824.avif)
+![Un gato hacker](plantilla/assets/img/cute-cat-hacker-operating-laptop-cartoon-vector-icon-illustration-animal-technology-icon-isolated_138676-6824.avif)
 
 - HTML
 - CSS
