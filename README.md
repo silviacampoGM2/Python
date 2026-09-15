@@ -74,3 +74,18 @@ console.log("Hola mundo");
 :heart:
 :warning:
 :tada:
+---
+> [!NOTE]
+> Información adicional.
+
+> [!TIP]
+> Un consejo útil.
+
+> [!IMPORTANT]
+> Información que debes conocer.
+
+> [!WARNING]
+> Ten cuidado con esto.
+
+> [!CAUTION]
+> Esta acción puede tener consecuencias.
