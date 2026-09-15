@@ -48,3 +48,15 @@ smr2python
 - [ ] Añadir imágenes
 - [ ] Terminar el proyecto
 - [ ] Publicarlo
+
+Utiliza `git status` para consultar el estado del respositorio
+```python
+print("Hola mundo")
+```
+
+```javascript
+console.log("Hola mundo");
+```
+
+```html
+<h1>Hola mundo</h1>
