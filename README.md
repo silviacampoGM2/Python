@@ -1,2 +1,2 @@
 # Python
-smr2appweb
+smr2python
