@@ -41,3 +41,10 @@ smr2python
 
 - [ ] Tarea pendiente
 - [x] Tarea completa
+
+## Mi proyecto
+- [x] Crear el repositorio
+- [x] Crear el README
+- [ ] Añadir imágenes
+- [ ] Terminar el proyecto
+- [ ] Publicarlo
