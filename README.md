@@ -6,8 +6,7 @@ smr2python
 #### Subapartado del subapartado
 ##### Subapartado del subapartado del subapartado
 ###### Subapartado del subapartado del subapartado del subapartado
-
-
+---
 **texto en negrita**
 
 *texto en cursiva*
@@ -15,22 +14,21 @@ smr2python
 ***Texto en negrita Y cursiva***
 
 ~~tachado~~
-
-
+---
 [Visita GitHub](https://github.com)
 
 ![Un gato hacker](plantilla/assets/img/cute-cat-hacker-operating-laptop-cartoon-vector-icon-illustration-animal-technology-icon-isolated_138676-6824.avif)
-
+---
 - HTML
 - CSS
 - JavaScript
 - Python
-
+---
 1. Diseñar
 2. Programar
 3. Probar
 4. Publicar
-
+---
 - Lenguajes
     - HTML
     - CSS
@@ -38,7 +36,7 @@ smr2python
 - Herramientas
     - Git
     - Github
-
+---
 - [ ] Tarea pendiente
 - [x] Tarea completa
 
@@ -48,7 +46,7 @@ smr2python
 - [ ] Añadir imágenes
 - [ ] Terminar el proyecto
 - [ ] Publicarlo
-
+---
 Utiliza `git status` para consultar el estado del respositorio
 ```python
 print("Hola mundo")
@@ -61,6 +59,11 @@ console.log("Hola mundo");
 ```html
 <h1>Hola mundo</h1>
 ```
-
+---
 > La creatividad es inteligencia divirtiéndose
-
+---
+| Nombre | Edad | Curso |
+| --- | --- | --- |
+| Ana | 16 | 4º ESO |
+| Luis | 17 | 1º Bachillerato|
+| Marta | 16 | 4º ESO |
