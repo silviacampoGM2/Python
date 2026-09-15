@@ -67,3 +67,10 @@ console.log("Hola mundo");
 | Ana | 16 | 4º ESO |
 | Luis | 17 | 1º Bachillerato|
 | Marta | 16 | 4º ESO |
+---
+:rocket:
+:computer:
+:smile:
+:heart:
+:warning:
+:tada:
